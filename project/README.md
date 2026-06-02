@@ -33,7 +33,10 @@ Branch - alternative version of the same set of files
         LTS
 
 
-git br addXXXXXX / to create a branch
+git br XXXXXX / to create a branch
 
 git br / list of branches
+
+git checkout XXX / to swicht the branch
+
 
