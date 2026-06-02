@@ -39,4 +39,13 @@ git br / list of branches
 
 git checkout XXX / to swicht the branch
 
+git branch -d XXXX / delete branch
+
+to reverse after deleting a branch : git checkout xxxxx (number of the branch) -b xxxxx(name of the branch)
+
+if -d doesn't work: try to use -D
+
+cherry-pick: go to main first, put the cherry-pick command with the branch code
+
+fork the project: copy from somewhere else to your project (and you can change it, without changing other persons or your other project)
 
